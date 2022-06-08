@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32328.378
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CobaltStrikeSharp", "CobaltStrikeSharp\CobaltStrikeSharp.csproj", "{BE635826-488A-4CEA-8ACA-37A053C2FCF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE635826-488A-4CEA-8ACA-37A053C2FCF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE635826-488A-4CEA-8ACA-37A053C2FCF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE635826-488A-4CEA-8ACA-37A053C2FCF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE635826-488A-4CEA-8ACA-37A053C2FCF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A165994-3927-4E5A-846C-1CEDAD00F7CA}
+	EndGlobalSection
+EndGlobal
